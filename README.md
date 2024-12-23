@@ -1,8 +1,12 @@
 # AIprojects
 Flask: A micro web framework in Python used to build web applications and APIs.
+
 request: Provides access to incoming HTTP request data.
+
 jsonify: Converts Python objects to JSON format to send responses back to clients.
+
 render_template: Renders HTML templates to display in a web browser.
+
 CORS: Cross-Origin Resource Sharing. It allows a web application running at one domain (e.g., localhost:5000) to interact with a resource on another domain (e.g., an API server at localhost:11434). This is important for security but needs to be enabled for certain use cases.
 requests: A Python library used for making HTTP requests to APIs or web servers.
 
